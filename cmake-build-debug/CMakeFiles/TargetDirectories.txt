@@ -1,0 +1,3 @@
+C:/Users/Norbert/CLionProjects/tele1/cmake-build-debug/CMakeFiles/tele1.dir
+C:/Users/Norbert/CLionProjects/tele1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Norbert/CLionProjects/tele1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
