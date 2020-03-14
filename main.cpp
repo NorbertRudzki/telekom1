@@ -5,14 +5,14 @@
 using namespace std;
 int main() {
     unsigned char H_matrix [8]={
-            0b10011001,
-            0b01111001,
-            0b11010110,
-            0b11000010,
-            0b11000000,
-            0b01010100,
-            0b10100110,
-            0b10101000};
+            0b10110010,
+            0b11101001,
+            0b01000111,
+            0b00000010,
+            0b00010001,
+            0b00110111,
+            0b01011111,
+            0b10011111};
     unsigned short HE_matrix[8];
     unsigned short mask = 0b10000000;
     for(int i=0;i<8;i++)
